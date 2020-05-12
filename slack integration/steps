@@ -1,0 +1,17 @@
+# Steps to integrate slack with watson discovery
+Download git and nodejs for your OS. (The commands used in below steps are for Windows Users using the command prompt)
+Use the follwing link  to deploy the app locally since the app cannot be deployed with a free trial IBM account: 
+https://github.com/IBM/watson-discovery-news/blob/master/doc/source/local.md
+Use the following command to clone the repo: git clone https://github.com/ibm/watson-discovery-news
+Check README on steps for creating watson discovery service
+From the home directory of your cloned local repo, create a .env file by copying it from the sample version using the command:
+copy env.sample .env #windows user
+Locate the service credentials listed on the home page of your Discovery service, download it, open the downloaded file (you can do so using notepad), copy all the credentials and paste in .env file.
+To integrate a new Slack Bot into your existing Slack team, navigate to https://<my.slack.com>/apps/manage/custom-integrations, where <my.slack.com> is the Slack workspace you want to customize. 
+From the Cutsom Integrations page, select the Bots option, to add a new bot, select the Add Configuration button. Enter a username for the bot and click Add bot integration.
+Once created, save(copy) the API Token that is generated and paste it in your .env file. Paste the Api token without brackets
+Finally, you'll run the application usinng the command: 
+npm install
+npm start 
+The application will be available in your browser at http://localhost:3000.
+Once you have successfully completed the steps, you can add your bot into a channel and ask it to fetch news. Pictures of Output are attached in the file
