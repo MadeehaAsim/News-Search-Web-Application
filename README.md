@@ -11,7 +11,7 @@ Log-in to your IBM account or sign up for one. In the menu bar, look for "Catalo
 Create your Node-RED app by filling all the parameters and access it through the resource list.
 The json file of the flow is attached and so is the output of it. Or access it directly using the links:
 Output:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/UI-photo.JPG
-Flow Diagram:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/flow-photo.JPG
-Json File:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/flows%20(1).json
+Flow_Diagram:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/flow-photo.JPG
+Json_File:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/flows%20(1).json
 # Slack Integration
 Open Slack Integration folder to see output and steps to integrate slack
