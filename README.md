@@ -15,3 +15,5 @@ Flow_Diagram:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/mas
 Json_File:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/flows%20(1).json
 # Slack Integration
 Open Slack Integration folder to see output and steps to integrate slack or use the link https://github.com/MadeehaAsim/News-Search-Web-Application/tree/master/slack%20integration directly.
+# Output
+To see the execution of the project i.e output of the UI and Slack Integration, watch the video in the repository or access it through the following link: https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/Execution_of_project.mp4
