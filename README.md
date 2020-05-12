@@ -14,4 +14,4 @@ Output:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/UI
 Flow_Diagram:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/flow-photo.JPG
 Json_File:https://github.com/MadeehaAsim/News-Search-Web-Application/blob/master/flows%20(1).json
 # Slack Integration
-Open Slack Integration folder to see output and steps to integrate slack
+Open Slack Integration folder to see output and steps to integrate slack or use the link https://github.com/MadeehaAsim/News-Search-Web-Application/tree/master/slack%20integration directly.
